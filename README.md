@@ -1,0 +1,3 @@
+# -devops
+##factorial
+##palindrome
